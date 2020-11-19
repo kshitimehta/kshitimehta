@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 * I am [Kshiti Mehta](https://www.linkedin.com/in/kshitimehta/) :blush:	 . 
 
-Currently I am a Master's student at UMass Amherst, pursuing my Computer Science degree with a concentration in Data Science
+* Currently I am a Master's student at UMass Amherst, pursuing my Computer Science degree with a concentration in Data Science
 
 * I have done multiple projects ranging from the field of SDE , Backend to MLE and Data Science :file_cabinet: .
 
