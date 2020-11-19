@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 * I have done multiple projects ranging from the field of SDE , Backend to MLE and Data Science :file_cabinet: .
 
-* I am currently brushing up my skills and plan to learn in depth Machine Learning and Data Science .
+* I am currently brushing up my skills and plan to learn in depth Machine Learning and Data Science.
 
-* I am willing to work on free-lance projects and would love to contribute to open source projects :bulb:
+* I am willing to work on free-lance projects and would love to contribute to open source projects.
 
-* Connect with me on LinkeDin :fireworks: [LinkedIn Profile](https://www.linkedin.com/in/kshitimehta/) :sparkler:
+* Connect with me on my [LinkedIn Profile](https://www.linkedin.com/in/kshitimehta/) 
 
 
 ## Tech Stack :computer:
