@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* I am [Kshiti Mehta](https://www.linkedin.com/in/kshitimehta/) :blush:	 . Currently I am a Master's student at UMass Amherst, pursuing my Computer Science degree with a concentration in Data Science
+* I am [Kshiti Mehta](https://www.linkedin.com/in/kshitimehta/) :blush:	 . 
+
+Currently I am a Master's student at UMass Amherst, pursuing my Computer Science degree with a concentration in Data Science
 
 * I have done multiple projects ranging from the field of SDE , Backend to MLE and Data Science :file_cabinet: .
 
@@ -23,7 +25,7 @@ Here are some ideas to get you started:
 
 * I am willing to work on free-lance projects and would love to contribute to open source projects :bulb:
 
-* Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://www.linkedin.com/in/kshitimehta/) :sparkler:
+* Connect with me on LinkeDin :fireworks: [LinkedIn Profile](https://www.linkedin.com/in/kshitimehta/) :sparkler:
 
 
 ## Tech Stack :computer:
@@ -75,11 +77,13 @@ Here are some ideas to get you started:
  
 ![Kshiti Mehta Github Stats](https://github-readme-stats.vercel.app/api?username=KshitiMehta&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-## My Certifications :arrow_down:
 
 📫 How to reach me: 
+
 -[Email](kdmehta@umass.edu) :mail:
+
 -[Linkedin](https://www.linkedin.com/in/kshitimehta)
+
 -[Portfolio](https://sites.google.com/view/kshitimehta)
 
 😄 Pronouns: SHE/HER
