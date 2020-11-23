@@ -109,7 +109,7 @@ Here are some ideas to get you started:
 10. [Caching in R](https://github.com/kshitimehta/ProgrammingAssignment2)
 11. [Global Terrorism Dataset Analysis and Visualisation using D3](https://github.com/cs590v/590V-project)
 12. [Map Reduce](https://github.com/kshitimehta/MapReduce)
-13. [Machine Learning Inference using Docker] (https://github.com/kshitimehta/ML-Inference)
+13. [Machine Learning Inference using Docker](https://github.com/kshitimehta/ML-Inference)
 14. [Practice with Tableau](https://github.com/kshitimehta/Practice-with-Tableau)
 15. [Word Count with Spark](https://github.com/kshitimehta/WordCount)
 16. [SparkSQL Exercise](https://github.com/kshitimehta/SparkSQL-Exercise)
