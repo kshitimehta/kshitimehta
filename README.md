@@ -113,6 +113,7 @@ Here are some ideas to get you started:
 14. [Practice with Tableau](https://github.com/kshitimehta/Practice-with-Tableau)
 15. [Word Count with Spark](https://github.com/kshitimehta/WordCount)
 16. [SparkSQL Exercise](https://github.com/kshitimehta/SparkSQL-Exercise)
+17.  [Mapping the Planet](https://github.com/kshitimehta/Mapping-the-Planet)
  
 ![Kshiti Mehta Github Stats](https://github-readme-stats.vercel.app/api?username=KshitiMehta&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
