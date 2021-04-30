@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 * Willing to work on free-lance projects and would love to contribute to open source projects .
 
-* I am looking for full-time opportunities starting May'21 .
+* I am looking for full-time opportunities starting July'21 .
 
 * I worked with the Center for Data Science at UMass Amherst as a Data Science Intern to work on their Common Good Project. You can find the project here [AMC API](https://github.com/kshitimehta/AMC-API)
 
